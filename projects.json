@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Project 1",
+      "imageSrc": "projects/project.png",
+      "description": "Bank Management System",
+      "skills": ["Java", "MySQL"],
+      
+      "source": "https://github.com/Samruddhi21-coder/Bank-Management-System"
+    },
+    {
+      "title": "Project 2",
+      "imageSrc": "projects/project.png",
+      "description": "Amazon Clone",
+      "skills": ["HTML", "CSS"],
+      
+      "source": "https://github.com/Samruddhi21-coder/Amazon-clone"
+    },
+    {
+      "title": "Project 3",
+      "imageSrc": "projects/project.png",
+      "description": "Spotify",
+      "skills": ["HTML", "CSS"],
+      
+      "source": "https://github.com/Samruddhi21-coder/Spotify-website-"
+    },
+    {
+      "title": "Project 4",
+      "imageSrc": "projects/project.png",
+      "description": "Weather Website",
+      "skills": ["HTML", "CSS","JS"],
+      
+      "source": "https://github.com/Samruddhi21-coder/Weather-Website"
+    },
+    {
+      "title": "Project 5",
+      "imageSrc": "projects/project.png",
+      "description": "SpeedOType",
+      "skills": ["React", "CSS" , "HTML", "JS"],
+      
+      "source": "https://github.com/Samruddhi21-coder/SpeedOType-using-React"
+    },
+    {
+      "title": "Project 6",
+      "imageSrc": "projects/project.png",
+      "description": "SignUp form",
+      "skills": ["HTML", "CSS", "React","JS"],
+      
+      "source": "https://github.com/Samruddhi21-coder/SignUp-form-using-React"
+    },
+    {
+      "title": "Project 7",
+      "imageSrc": "projects/project.png",
+      "description": "To-Do-List",
+      "skills": ["HTML", "CSS", "JS", "React"],
+     
+      "source": "https://github.com/Samruddhi21-coder/To-Do-List"
+    }
+  ]
+  
